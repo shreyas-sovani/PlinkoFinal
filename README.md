@@ -2,4 +2,4 @@
 
 
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/c33-PlinkoFinal/index.html
+### Output Link : https://shreyas-sovani.github.io/PlinkoFinal/.
